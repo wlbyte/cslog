@@ -1,0 +1,2 @@
+# cslog
+base log/slog
